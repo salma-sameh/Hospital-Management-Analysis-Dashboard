@@ -1,0 +1,2 @@
+data link: https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset
+presentation: https://drive.google.com/drive/folders/1jQoltLrCkfqA61-vwEcPUHevR2r7zyUC?usp=sharing
